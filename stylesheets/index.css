@@ -7,8 +7,10 @@ body{
 
 .tickerContainer{
     
-    outline: 1px solid red;
+    outline: 3px solid blue;
     height: 100%;
     width: 100px;
+    background-color: aliceblue;
+    text-align: center;
     /* background-color:  */
 }
